@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: BelminMahic/Parky
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: experimental
   owner: guests
